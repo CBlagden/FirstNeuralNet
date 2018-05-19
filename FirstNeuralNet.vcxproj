@@ -122,12 +122,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Github\FirstNeuralNet\src\Neuron.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Github\FirstNeuralNet\src\NeuronLayer.cpp" />
     <ClCompile Include="LinAlgUtil.cpp" />
     <ClCompile Include="LinAlgUtilTest.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="NeuralNet.cpp" />
+    <ClCompile Include="Neuron.cpp" />
+    <ClCompile Include="NeuronLayer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinAlgUtil.h" />

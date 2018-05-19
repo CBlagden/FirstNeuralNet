@@ -1,7 +1,7 @@
 ﻿  Main.cpp
+  NeuronLayer.cpp
   Generating code
-  1 of 781 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+c:\users\cblagden\source\repos\firstneuralnet\neuron.cpp(51): warning C4715: 'nnet::Neuron::toString': not all control paths return a value
+  All 781 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   FirstNeuralNet.vcxproj -> C:\Users\CBlagden\source\repos\FirstNeuralNet\Release\FirstNeuralNet.exe

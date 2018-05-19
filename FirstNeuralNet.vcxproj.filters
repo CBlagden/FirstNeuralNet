@@ -27,10 +27,10 @@
     <ClCompile Include="NeuralNet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Github\FirstNeuralNet\src\Neuron.cpp">
+    <ClCompile Include="Neuron.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Github\FirstNeuralNet\src\NeuronLayer.cpp">
+    <ClCompile Include="NeuronLayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
