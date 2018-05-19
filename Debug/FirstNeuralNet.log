@@ -1,0 +1,4 @@
+﻿  Main.cpp
+  NeuralNet.cpp
+c:\users\cblagden\source\repos\firstneuralnet\firstneuralnet\neuralnet.cpp(6): fatal error C1083: Cannot open include file: 'boost/filesystem.hpp': No such file or directory
+  Generating Code...
